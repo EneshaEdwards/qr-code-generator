@@ -1,3 +1,5 @@
+# testing git locally
+
 #import qrcode
 #qr = qrcode.make("https://eneshaedwards.com")
 #qr.save("/Users/eneshae/Desktop/my_qr_code.png")
